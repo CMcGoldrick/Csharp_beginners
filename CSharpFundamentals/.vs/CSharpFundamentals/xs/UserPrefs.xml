@@ -1,5 +1,10 @@
 ﻿<Properties StartupConfiguration="{1E36B5B5-A9FB-495E-AA20-18152B9B3518}|Default">
-  <MonoDevelop.Ide.Workbench />
+  <MonoDevelop.Ide.Workbench ActiveDocument="CSharpFundamentals/Conditionals.cs">
+    <Files>
+      <File FileName="CSharpFundamentals/Exercises_section_8_lecture68_Strings.cs" Line="97" Column="16" />
+      <File FileName="CSharpFundamentals/Conditionals.cs" Line="1" Column="1" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
   <MonoDevelop.Ide.ItemProperties.CSharpFundamentals PreferredExecutionTarget="MonoDevelop.Default" />
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
   <MonoDevelop.Ide.DebuggingService.Breakpoints>

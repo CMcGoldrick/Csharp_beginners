@@ -104,16 +104,22 @@ namespace CSharpFundamentals
             //5 - Write a program and ask the user to enter an English word. Count the number of vowels(a, e, o, u, i)
             //the word. So, if the user enters "inadequate", the program should display 6 on the console.
 
-            string word = "indadequate";
-            char[] array = word.ToCharArray();
+            Console.WriteLine("Please enter an english word");
+            var vowels = Console.ReadLine()
+                                .Where(c => "aeiouAEIOU".Contains(c));
 
-            //var counter = 0;
-            var i = 0;
-            for (i = 0; i < array.Length; i++)
+            if (!vowels.Any())
             {
-                
+                Console.WriteLine("No vowels have been detected.");
             }
+            else
+            {
+                var counter = 0;
+                foreach (var vowel in vowels)
+                    counter = counter + 1;
 
+                Console.WriteLine($"There are {counter} vowels in that fucken word");
+            }
         }
     }
 };
