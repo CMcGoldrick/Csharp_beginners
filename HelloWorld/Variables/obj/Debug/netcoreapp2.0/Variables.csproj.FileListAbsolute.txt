@@ -1,0 +1,11 @@
+/Users/ciaranfrancismcgoldrick/Documents/Projects_2018/C#/Udemy_C#_beginners/HelloWorld/Variables/bin/Debug/netcoreapp2.0/Variables.deps.json
+/Users/ciaranfrancismcgoldrick/Documents/Projects_2018/C#/Udemy_C#_beginners/HelloWorld/Variables/bin/Debug/netcoreapp2.0/Variables.runtimeconfig.json
+/Users/ciaranfrancismcgoldrick/Documents/Projects_2018/C#/Udemy_C#_beginners/HelloWorld/Variables/bin/Debug/netcoreapp2.0/Variables.runtimeconfig.dev.json
+/Users/ciaranfrancismcgoldrick/Documents/Projects_2018/C#/Udemy_C#_beginners/HelloWorld/Variables/bin/Debug/netcoreapp2.0/Variables.dll
+/Users/ciaranfrancismcgoldrick/Documents/Projects_2018/C#/Udemy_C#_beginners/HelloWorld/Variables/bin/Debug/netcoreapp2.0/Variables.pdb
+/Users/ciaranfrancismcgoldrick/Documents/Projects_2018/C#/Udemy_C#_beginners/HelloWorld/Variables/obj/Debug/netcoreapp2.0/Variables.csprojResolveAssemblyReference.cache
+/Users/ciaranfrancismcgoldrick/Documents/Projects_2018/C#/Udemy_C#_beginners/HelloWorld/Variables/obj/Debug/netcoreapp2.0/Variables.csproj.CoreCompileInputs.cache
+/Users/ciaranfrancismcgoldrick/Documents/Projects_2018/C#/Udemy_C#_beginners/HelloWorld/Variables/obj/Debug/netcoreapp2.0/Variables.AssemblyInfoInputs.cache
+/Users/ciaranfrancismcgoldrick/Documents/Projects_2018/C#/Udemy_C#_beginners/HelloWorld/Variables/obj/Debug/netcoreapp2.0/Variables.AssemblyInfo.cs
+/Users/ciaranfrancismcgoldrick/Documents/Projects_2018/C#/Udemy_C#_beginners/HelloWorld/Variables/obj/Debug/netcoreapp2.0/Variables.dll
+/Users/ciaranfrancismcgoldrick/Documents/Projects_2018/C#/Udemy_C#_beginners/HelloWorld/Variables/obj/Debug/netcoreapp2.0/Variables.pdb

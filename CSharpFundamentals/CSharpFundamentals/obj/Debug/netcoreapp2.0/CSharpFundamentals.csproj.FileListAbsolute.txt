@@ -1,0 +1,11 @@
+/Users/ciaranfrancismcgoldrick/Documents/Projects_2018/C#/Udemy_C#_beginners/CSharpFundamentals/CSharpFundamentals/bin/Debug/netcoreapp2.0/CSharpFundamentals.deps.json
+/Users/ciaranfrancismcgoldrick/Documents/Projects_2018/C#/Udemy_C#_beginners/CSharpFundamentals/CSharpFundamentals/bin/Debug/netcoreapp2.0/CSharpFundamentals.runtimeconfig.json
+/Users/ciaranfrancismcgoldrick/Documents/Projects_2018/C#/Udemy_C#_beginners/CSharpFundamentals/CSharpFundamentals/bin/Debug/netcoreapp2.0/CSharpFundamentals.runtimeconfig.dev.json
+/Users/ciaranfrancismcgoldrick/Documents/Projects_2018/C#/Udemy_C#_beginners/CSharpFundamentals/CSharpFundamentals/bin/Debug/netcoreapp2.0/CSharpFundamentals.dll
+/Users/ciaranfrancismcgoldrick/Documents/Projects_2018/C#/Udemy_C#_beginners/CSharpFundamentals/CSharpFundamentals/bin/Debug/netcoreapp2.0/CSharpFundamentals.pdb
+/Users/ciaranfrancismcgoldrick/Documents/Projects_2018/C#/Udemy_C#_beginners/CSharpFundamentals/CSharpFundamentals/obj/Debug/netcoreapp2.0/CSharpFundamentals.csproj.CoreCompileInputs.cache
+/Users/ciaranfrancismcgoldrick/Documents/Projects_2018/C#/Udemy_C#_beginners/CSharpFundamentals/CSharpFundamentals/obj/Debug/netcoreapp2.0/CSharpFundamentals.AssemblyInfoInputs.cache
+/Users/ciaranfrancismcgoldrick/Documents/Projects_2018/C#/Udemy_C#_beginners/CSharpFundamentals/CSharpFundamentals/obj/Debug/netcoreapp2.0/CSharpFundamentals.AssemblyInfo.cs
+/Users/ciaranfrancismcgoldrick/Documents/Projects_2018/C#/Udemy_C#_beginners/CSharpFundamentals/CSharpFundamentals/obj/Debug/netcoreapp2.0/CSharpFundamentals.dll
+/Users/ciaranfrancismcgoldrick/Documents/Projects_2018/C#/Udemy_C#_beginners/CSharpFundamentals/CSharpFundamentals/obj/Debug/netcoreapp2.0/CSharpFundamentals.pdb
+/Users/ciaranfrancismcgoldrick/Documents/Projects_2018/C#/Udemy_C#_beginners/CSharpFundamentals/CSharpFundamentals/obj/Debug/netcoreapp2.0/CSharpFundamentals.csprojResolveAssemblyReference.cache

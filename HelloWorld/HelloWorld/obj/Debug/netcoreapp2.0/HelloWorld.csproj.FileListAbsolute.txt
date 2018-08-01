@@ -1,0 +1,11 @@
+/Users/ciaranfrancismcgoldrick/Documents/Projects_2018/C#/Udemy_C#_beginners/HelloWorld/HelloWorld/obj/Debug/netcoreapp2.0/HelloWorld.csprojResolveAssemblyReference.cache
+/Users/ciaranfrancismcgoldrick/Documents/Projects_2018/C#/Udemy_C#_beginners/HelloWorld/HelloWorld/obj/Debug/netcoreapp2.0/HelloWorld.csproj.CoreCompileInputs.cache
+/Users/ciaranfrancismcgoldrick/Documents/Projects_2018/C#/Udemy_C#_beginners/HelloWorld/HelloWorld/obj/Debug/netcoreapp2.0/HelloWorld.AssemblyInfoInputs.cache
+/Users/ciaranfrancismcgoldrick/Documents/Projects_2018/C#/Udemy_C#_beginners/HelloWorld/HelloWorld/obj/Debug/netcoreapp2.0/HelloWorld.AssemblyInfo.cs
+/Users/ciaranfrancismcgoldrick/Documents/Projects_2018/C#/Udemy_C#_beginners/HelloWorld/HelloWorld/bin/Debug/netcoreapp2.0/HelloWorld.deps.json
+/Users/ciaranfrancismcgoldrick/Documents/Projects_2018/C#/Udemy_C#_beginners/HelloWorld/HelloWorld/bin/Debug/netcoreapp2.0/HelloWorld.runtimeconfig.json
+/Users/ciaranfrancismcgoldrick/Documents/Projects_2018/C#/Udemy_C#_beginners/HelloWorld/HelloWorld/bin/Debug/netcoreapp2.0/HelloWorld.runtimeconfig.dev.json
+/Users/ciaranfrancismcgoldrick/Documents/Projects_2018/C#/Udemy_C#_beginners/HelloWorld/HelloWorld/bin/Debug/netcoreapp2.0/HelloWorld.dll
+/Users/ciaranfrancismcgoldrick/Documents/Projects_2018/C#/Udemy_C#_beginners/HelloWorld/HelloWorld/bin/Debug/netcoreapp2.0/HelloWorld.pdb
+/Users/ciaranfrancismcgoldrick/Documents/Projects_2018/C#/Udemy_C#_beginners/HelloWorld/HelloWorld/obj/Debug/netcoreapp2.0/HelloWorld.dll
+/Users/ciaranfrancismcgoldrick/Documents/Projects_2018/C#/Udemy_C#_beginners/HelloWorld/HelloWorld/obj/Debug/netcoreapp2.0/HelloWorld.pdb

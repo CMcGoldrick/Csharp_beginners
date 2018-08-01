@@ -1,0 +1,12 @@
+﻿<Properties StartupConfiguration="{1E36B5B5-A9FB-495E-AA20-18152B9B3518}|Default">
+  <MonoDevelop.Ide.Workbench />
+  <MonoDevelop.Ide.ItemProperties.CSharpFundamentals PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore>
+      <Breakpoint file="/Users/ciaranfrancismcgoldrick/Documents/Projects_2018/C#/Udemy_C#_beginners/CSharpFundamentals/CSharpFundamentals/Math/EmptyCSharpFile.cs" relfile="CSharpFundamentals/Math/EmptyCSharpFile.cs" line="1" column="19" />
+    </BreakpointStore>
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MultiItemStartupConfigurations />
+</Properties>

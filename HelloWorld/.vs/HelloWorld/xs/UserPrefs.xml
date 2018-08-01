@@ -1,0 +1,17 @@
+﻿<Properties StartupConfiguration="{4A0BC89A-5529-4FA7-B873-C52320A5A376}|Default">
+  <MonoDevelop.Ide.ItemProperties.HelloWorld PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Variables/Program.cs">
+    <Files>
+      <File FileName="Variables/Program.cs" Line="22" Column="37" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore>
+      <Breakpoint file="/Users/ciaranfrancismcgoldrick/Documents/Projects_2018/C#/Udemy_C#_beginners/HelloWorld/Variables/Program.cs" relfile="Variables/Program.cs" line="12" column="1" />
+    </BreakpointStore>
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.ItemProperties.Variables PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MultiItemStartupConfigurations />
+</Properties>

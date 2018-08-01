@@ -1,0 +1,23 @@
+
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HelloWorld", "HelloWorld\HelloWorld.csproj", "{00409912-A168-4E7A-9CB3-4AE51D86E4C3}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Variables", "Variables\Variables.csproj", "{4A0BC89A-5529-4FA7-B873-C52320A5A376}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{00409912-A168-4E7A-9CB3-4AE51D86E4C3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{00409912-A168-4E7A-9CB3-4AE51D86E4C3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{00409912-A168-4E7A-9CB3-4AE51D86E4C3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{00409912-A168-4E7A-9CB3-4AE51D86E4C3}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4A0BC89A-5529-4FA7-B873-C52320A5A376}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4A0BC89A-5529-4FA7-B873-C52320A5A376}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4A0BC89A-5529-4FA7-B873-C52320A5A376}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4A0BC89A-5529-4FA7-B873-C52320A5A376}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
